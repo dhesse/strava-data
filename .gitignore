@@ -1,0 +1,5 @@
+.vscode
+.ipynb_checkpoints
+secret.py
+auth.yaml
+__pycache__
